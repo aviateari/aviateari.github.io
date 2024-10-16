@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aviateari.github.io/sitemap.html.gz
+Sitemap: https://aviateari.github.io/app/sitemap.html.gz
+Sitemap: https://aviateari.github.io/assets/sitemap.html.gz
+Sitemap: https://aviateari.github.io/css/sitemap.html.gz
+Sitemap: https://aviateari.github.io/includes/sitemap.html.gz
+Sitemap: https://aviateari.github.io/item/sitemap.html.gz
+Sitemap: https://aviateari.github.io/src/sitemap.html.gz
